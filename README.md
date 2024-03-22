@@ -13,11 +13,8 @@ And here's the list of components used in the project:
 - Data Binding
 - Drawable Resources
 
-![Screenshot 2024-03-23 003010](https://github.com/Gulciha-n/andr_app_number_guess_game/assets/120305183/97f866cc-10ad-4df1-b0ef-e6d3c466267c)
-![Screenshot 2024-03-23 002957](https://github.com/Gulciha-n/andr_app_number_guess_game/assets/120305183/df87e125-b14c-4cc9-a763-82f0c53eb2c0)
+![Screenshot 2024-03-23 002957](https://github.com/Gulciha-n/andr_app_number_guess_game/assets/120305183/35a03105-d70a-473e-8943-3c816edf1deb)
+![Screenshot 2024-03-23 003010](https://github.com/Gulciha-n/andr_app_number_guess_game/assets/120305183/b542d9a7-0a48-4246-97c0-d04559cd0228)
 
-![Screenshot 2024-03-23 003125](https://github.com/Gulciha-n/andr_app_number_guess_game/assets/120305183/57145543-89da-400a-a29f-4f44650776f1)
-![Screenshot 2024-03-23 003044](https://github.com/Gulciha-n/andr_app_number_guess_game/assets/120305183/ae919cfe-3abf-4c2a-8fbc-351f90206fc6)
-
-
-
+![Screenshot 2024-03-23 003044](https://github.com/Gulciha-n/andr_app_number_guess_game/assets/120305183/d247c42a-10f1-4ee1-a0e9-4ef598af60a4)
+![Screenshot 2024-03-23 003125](https://github.com/Gulciha-n/andr_app_number_guess_game/assets/120305183/6f9ae0de-0ecd-4d3f-9a62-764d6dab4d38)
